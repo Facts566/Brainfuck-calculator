@@ -33,4 +33,4 @@
 ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]] // division into tens and ones
 
 >>>++++[<++++++++++>-]<++++++++ // tens of numbers into a string
->++++[<<++++++++++>>-]<<++++++++.>.[-] ones of numbers into a string
+>++++[<<++++++++++>>-]<<++++++++.>.[-] // ones of numbers into a string
